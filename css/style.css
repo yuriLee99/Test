@@ -1,0 +1,10 @@
+@import "nav_list.css";
+
+*{
+    box-sizing: border-box;
+}
+
+a:visited{
+    color:black; 
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.nav{
+    position: fixed;    
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    background-color: #fcfcfc;
+    border-top: 3px solid #f7f7f7;
+    padding: 15px 40px;
+}
+
+.nav_list{
+    display: flex;
+    justify-content: space-between;
+}
+
