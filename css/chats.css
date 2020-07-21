@@ -1,0 +1,24 @@
+.main{
+    position: fixed;
+    width: 100%;
+    padding: 10px 20px;
+    display: flex;
+}
+.main_image{
+    width:70px;
+    height:70px;
+    border-radius: 40%;
+}
+.main_msg{
+    padding: 13px 20px;
+}
+.main_msg_chat{
+    padding: 5px 0px;
+    color: dimgray;
+}
+.main_msg_time{
+    position: absolute;
+    right: 10px;
+    padding: 17px 10px;
+    color: dimgray;
+}

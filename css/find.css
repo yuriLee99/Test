@@ -1,0 +1,59 @@
+.main{
+    position: fixed;
+    width: 100%;
+    padding: 10px 20px;
+}
+.main_column{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px 0px 20px;
+    border-bottom: 3px solid #f7f7f7;
+}
+.main_column_name{
+    display: flex;
+    padding: 20px 10px;
+}
+.main_column_qrcode_icon{
+    padding: 0px 25px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.main_column_contact_icon{
+    padding: 0px 50px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.main_column_id_icon{
+    padding: 0px 30px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.main_column_invite_icon{
+    padding: 0px 20px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.main_recommend{
+    padding: 5px 0px;
+    display: flex;
+}
+.main_recommend_title{
+    padding: 10px 0px;
+    color: dimgray;
+}
+.main_recommend_img{
+    width: 50px;
+    height: 50px;
+    border-radius: 40%;
+}
+.main_recommend_name{
+    padding: 15px 10px;    
+}
+.main_recommend_icon{
+    position: absolute;
+    right: 10px;
+    margin: 10px 0px;
+    padding: 5px 10px;
+    background-color: #eeeeee;
+    border-radius: 10%;
+}
