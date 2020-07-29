@@ -1,0 +1,24 @@
+.main_setting{
+    position: fixed;
+    width: 100%;
+    padding: 10px 20px;
+}
+.set_box{
+    padding: 10px 0px;
+    border-top: 3px solid #f7f7f7;
+}
+.set_privacy_box{
+    display: flex;
+    padding: 10px 0px;
+}
+.set_notification_box{
+    display: flex;
+    padding: 10px 0px;
+}
+.set_friends_box{
+    display: flex;
+    padding: 10px 0px;
+}
+.set_icon{
+    padding-right: 20px;
+}
